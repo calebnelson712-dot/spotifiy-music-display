@@ -1,2 +1,2 @@
-# spotifiy-music-display
-this is a spotifiy dislpay i am making for statis by hack club
+# Spotify Display
+In starter projects I found this one most appealing to me. Cause it looks really cool. Honestly, guide is a bit confusing. 
