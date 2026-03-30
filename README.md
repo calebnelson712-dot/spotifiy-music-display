@@ -32,5 +32,9 @@ The firmware using the ESP32spotify library.
 |Name| Quantity| Description| Cost (USD)| Link|
 |--|--|--|--|--|
 | LCD | 1| LCD to display the tracks | $9.95 |
+|jumper wires|1|to connect stuff |7|
+|switches |3|keys for buttons|29.97|
+|Rotary Encoder (with knob)|Used for volume or menu control|1|$8.89|
+|ESP32 Development Board|Main microcontroller used to run the project|2|$10.00|
 
-I also require one rotary encoder, three keycaps, and one ESP32, but I already have those at home, so I don't need to purchase them. That is why they are not on the BOM. 
+I require one rotary encoder, three keycaps, and one ESP32, but I already have those at home, so I don't need to purchase them. 
