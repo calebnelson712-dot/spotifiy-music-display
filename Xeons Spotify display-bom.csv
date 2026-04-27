@@ -1,7 +1,0 @@
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"3d printed parts","case",1,0.00,"","my 3d printer"
-"Jumper Wires","Used to connect the components",1,7.00,"https://a.co/d/01FAON4C","amazon"
-"Mechanical Switches","Used for playback controls",3,29.97,"https://a.co/d/06fXIy8R","amazon"
-"Rotary Encoder (with knob)","Used for volume or menu control",1,8.89,"https://a.co/d/0dQ7lI8W","amazon"
-"ESP32 Development Board","Main microcontroller used to run the project",1,10.00,"https://a.co/d/02p5Ifkj","amazon"
-"SCREEn","TO DISPLAY",1,9.95,"https://www.amazon.com/JESSINIE-Display-Arduino-128x160-Interface/dp/B0D31BGJWF/ref=sr_1_3?sr=8-3","AMAZON"
